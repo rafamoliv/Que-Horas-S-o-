@@ -1,0 +1,12 @@
+{
+  "name": "que-horas-sao",
+  "displayName": "que-horas-sao",
+  "expo": {
+    "name": "que-horas-sao",
+    "slug": "que-horas-sao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

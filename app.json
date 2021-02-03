@@ -1,12 +1,25 @@
 {
-  "name": "que-horas-sao",
-  "displayName": "que-horas-sao",
+  "name": "Que horas são?",
+  "displayName": "Que horas são?",
   "expo": {
-    "name": "que-horas-sao",
+    "name": "Que horas são?",
     "slug": "que-horas-sao",
     "version": "1.0.0",
+    "icon": "./src/512.png",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+
+    "android": {
+      "package": "com.rodeveloper.quehorassao",
+      "versionCode": 1,
+      "permissions" : [],
+    "config": {
+      "googleMobileAdsAppId": "ca-app-pub-2851827333967207~6205513170"
+    },
+    "adaptiveIcon": {
+      "backgroundColor": "#171515"
+    }
+    }
   }
 }
